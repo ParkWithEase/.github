@@ -1,3 +1,3 @@
-Desktop Webapp             | Android
-:-------------------------:|:-------------------------:
-[![Website](https://github.com/user-attachments/assets/7dab3023-ca6d-4d04-b4d3-f17dfee3cfbf)](https://github.com/ParkWithEase/android-staging-binaries/releases)  |  [![Android](https://github.com/user-attachments/assets/71aff5a2-7bd0-4bea-8677-69b1885ea8d9)](https://github.com/ParkWithEase/android-staging-binaries/releases)
+Desktop Webapp|Android
+:-:|:-:
+[![Website](https://github.com/user-attachments/assets/083c3bd1-fb79-4b6d-a408-1f62278fdbb0)](https://parkstaging.pages.dev)|[![Android](https://github.com/user-attachments/assets/fe7d17ab-557b-4af4-bdad-11aeee89007d)](https://github.com/ParkWithEase/android-staging-binaries/releases)
